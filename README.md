@@ -17,7 +17,7 @@ Archlinux on the Microsoft Surface Pro 3.
 * [ ] MiniDisplay Port https://github.com/nuclearsandwich/surface3-archlinux/issues/1
 * [ ] Docking station
 * [ ] Suspend to RAM
-* [ ] Suspend to SSD
+* [ ] Suspend to SSD https://github.com/nuclearsandwich/surface3-archlinux/issues/2
 * [ ] HiDPI Support
 * [ ] Multitouch gestures
 
