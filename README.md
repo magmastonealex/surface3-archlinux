@@ -1,33 +1,31 @@
 # Surface Pro 3 Documentation
 
-Ubuntu Trusty on the Microsoft Surface Pro 3.
+Archlinux on the Microsoft Surface Pro 3.
 
-## Work in Progress
+## Hardware
 
-**Working**
+* [ ] Type Cover 3 (both keyboard and trackpad)
+* [ ] Bluetooth
+* [ ] Touch screen
+* [ ] N-trig touch pen
+* [ ] Built-in microphone
+* [ ] Speakers
+* [ ] Headphone jack
+* [ ] Wifi
+* [ ] Cameras
+* [ ] MicroSD reader
+* [ ] MiniDisplay Port
+* [ ] Docking station
+* [ ] Suspend to RAM
+* [ ] Suspend to SSD
+* [ ] HiDPI Support
+* [ ] Multitouch gestures
 
-* Type Cover 3 (both keyboard and trackpad).
-* Bluetooth
-  - Trusty kernel 3.13: partially after updating the marvell firmware.
-  - Utopic kernel 3.16: fully working after updating the marvell firmware.
-* Touch screen.
-* Built-in microphone, speakers, and headphone jack.
-* Wireless works but is very unstable (both 3.13 and 3.16 kernels).
-
-**Not Working**
-
-* Cameras.
-
-**Untested**
-
-* MicroSD reader.
-* Bluetooth pen.
-
-## Kernel
-
-https://github.com/rubiojr/surface3-kernel
 
 ## Reading
+
+@rubiojr's work on Ubuntu https://github.com/rubiojr/surface3-ubuntu-trusty
+@rubiojr's kernel https://github.com/rubiojr/surface3-kernel
 
 ### Reddit
 
