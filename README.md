@@ -14,7 +14,7 @@ Archlinux on the Microsoft Surface Pro 3.
 * [ ] Wifi
 * [ ] Cameras
 * [ ] MicroSD reader
-* [ ] MiniDisplay Port
+* [ ] MiniDisplay Port https://github.com/nuclearsandwich/surface3-archlinux/issues/1
 * [ ] Docking station
 * [ ] Suspend to RAM
 * [ ] Suspend to SSD
