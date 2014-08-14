@@ -24,6 +24,7 @@ Archlinux on the Microsoft Surface Pro 3.
 
 ## Software
 
+* [x] [Full disk encryption][#7]
 * [ ] HiDPI Support
 * [ ] Multitouch gestures
 * [ ] Onscreen Keyboard
@@ -35,6 +36,7 @@ Archlinux on the Microsoft Surface Pro 3.
 [#4]: https://github.com/nuclearsandwich/surface3-archlinux/issues/4
 [#5]: https://github.com/nuclearsandwich/surface3-archlinux/issues/5
 [#6]: https://github.com/nuclearsandwich/surface3-archlinux/issues/6
+[#7]: https://github.com/nuclearsandwich/surface3-archlinux/issues/7
 
 
 ## Reading
