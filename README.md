@@ -8,9 +8,9 @@ Archlinux on the Microsoft Surface Pro 3.
 * [ ] Bluetooth
 * [ ] Touch screen
 * [ ] N-trig touch pen
-* [ ] Built-in microphone [#3][]
-* [ ] Speakers [#3][]
-* [ ] Headphone jack [#3][]
+* [x] Built-in microphone [#3][]
+* [x] Speakers [#3][]
+* [x] Headphone jack [#3][]
 * [ ] Wifi [#2][]
 * [ ] Cameras
 * [ ] MicroSD reader
