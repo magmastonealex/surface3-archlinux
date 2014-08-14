@@ -4,22 +4,27 @@ Archlinux on the Microsoft Surface Pro 3.
 
 ## Hardware
 
-* [ ] Type Cover 3 (both keyboard and trackpad)
+* [ ] Type Cover 3 (both keyboard and trackpad) [#4][]
 * [ ] Bluetooth
 * [ ] Touch screen
 * [ ] N-trig touch pen
-* [ ] Built-in microphone
-* [ ] Speakers
-* [ ] Headphone jack
-* [ ] Wifi
+* [ ] Built-in microphone [#3][]
+* [ ] Speakers [#3][]
+* [ ] Headphone jack [#3][]
+* [ ] Wifi [#2][]
 * [ ] Cameras
 * [ ] MicroSD reader
-* [ ] MiniDisplay Port https://github.com/nuclearsandwich/surface3-archlinux/issues/1
+* [ ] MiniDisplay Port [#1][]
 * [ ] Docking station
 * [ ] Suspend to RAM
-* [ ] Suspend to SSD https://github.com/nuclearsandwich/surface3-archlinux/issues/2
+* [ ] Suspend to SSD [#2][]
 * [ ] HiDPI Support
 * [ ] Multitouch gestures
+
+[#1]: https://github.com/nuclearsandwich/surface3-archlinux/issues/1
+[#2]: https://github.com/nuclearsandwich/surface3-archlinux/issues/2
+[#3]: https://github.com/nuclearsandwich/surface3-archlinux/issues/3
+[#4]: https://github.com/nuclearsandwich/surface3-archlinux/issues/4
 
 
 ## Reading
