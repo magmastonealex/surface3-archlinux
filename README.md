@@ -4,27 +4,37 @@ Archlinux on the Microsoft Surface Pro 3.
 
 ## Hardware
 
-* [ ] Type Cover 3 (both keyboard and trackpad) [#4][]
-* [ ] Bluetooth
-* [ ] Touch screen
+* [ ] [Type Cover 3][#4]
+  * [ ] keyboard
+  * [ ] trackpad
+* [ ] Bluetooth [*Not working at all*][#5]
+* [x] Touch screen with multitouch support
 * [ ] N-trig touch pen
-* [x] Built-in microphone [#3][]
-* [x] Speakers [#3][]
-* [x] Headphone jack [#3][]
-* [ ] Wifi [#2][]
-* [ ] Cameras
-* [ ] MicroSD reader
-* [ ] MiniDisplay Port [#1][]
-* [ ] Docking station
-* [ ] Suspend to RAM
-* [ ] Suspend to SSD [#2][]
+* [x] [Built-in microphone][#3]
+* [x] [Speakers][#3]
+* [x] [Headphone jack][#3]
+* [x] Wifi *Works* but [issues with resume from hibernate][#2]
+* [ ] Cameras *not working at all*
+* [ ] MicroSD reader *untested*
+* [ ] [MiniDisplay Port][#1]
+* [ ] Docking station *not yet released*
+* [ ] [Suspend to RAM][#6]
+* [ ] [Suspend to SSD][#2]
+
+
+## Software
+
 * [ ] HiDPI Support
 * [ ] Multitouch gestures
+* [ ] Onscreen Keyboard
+* [ ] Rotation recognition and action
 
 [#1]: https://github.com/nuclearsandwich/surface3-archlinux/issues/1
 [#2]: https://github.com/nuclearsandwich/surface3-archlinux/issues/2
 [#3]: https://github.com/nuclearsandwich/surface3-archlinux/issues/3
 [#4]: https://github.com/nuclearsandwich/surface3-archlinux/issues/4
+[#5]: https://github.com/nuclearsandwich/surface3-archlinux/issues/5
+[#6]: https://github.com/nuclearsandwich/surface3-archlinux/issues/6
 
 
 ## Reading
