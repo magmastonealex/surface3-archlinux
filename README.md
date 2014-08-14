@@ -9,7 +9,7 @@ Archlinux on the Microsoft Surface Pro 3.
   * [ ] trackpad
 * [ ] Bluetooth [*Not working at all*][#5]
 * [x] Touch screen with multitouch support
-* [ ] N-trig touch pen
+* [x] [N-trig touch pen][#8] need configuration tips
 * [x] [Built-in microphone][#3]
 * [x] [Speakers][#3]
 * [x] [Headphone jack][#3]
@@ -37,6 +37,7 @@ Archlinux on the Microsoft Surface Pro 3.
 [#5]: https://github.com/nuclearsandwich/surface3-archlinux/issues/5
 [#6]: https://github.com/nuclearsandwich/surface3-archlinux/issues/6
 [#7]: https://github.com/nuclearsandwich/surface3-archlinux/issues/7
+[#8]: https://github.com/nuclearsandwich/surface3-archlinux/issues/8
 
 
 ## Reading
