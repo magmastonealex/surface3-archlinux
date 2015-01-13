@@ -42,6 +42,7 @@ Archlinux on the Microsoft Surface Pro 3.
 
 ## Reading
 
+@Vistaus has some great how-tos at https://github.com/Vistaus/surface3-arch-antergoslinux
 @rubiojr's work on Ubuntu https://github.com/rubiojr/surface3-ubuntu-trusty
 @rubiojr's kernel https://github.com/rubiojr/surface3-kernel
 
