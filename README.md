@@ -38,7 +38,7 @@ Archlinux on the Microsoft Surface Pro 3.
 [#6]: https://github.com/nuclearsandwich/surface3-archlinux/issues/6
 [#7]: https://github.com/nuclearsandwich/surface3-archlinux/issues/7
 [#8]: https://github.com/nuclearsandwich/surface3-archlinux/issues/8
-
+[#20]: https://github.com/nuclearsandwich/surface3-archlinux/issues/8
 
 ## Reading
 
