@@ -7,7 +7,7 @@ Archlinux on the Microsoft Surface Pro 3.
 * [ ] [Type Cover 3][#4]
   * [ ] keyboard
   * [ ] trackpad
-* [ ] Bluetooth [*Not working at all*][#5]
+* [x] Bluetooth [*working with recent firmwares*][#5]
 * [x] Touch screen with multitouch support
 * [x] [N-trig touch pen][#8] need configuration tips
 * [x] [Built-in microphone][#3]
@@ -15,9 +15,9 @@ Archlinux on the Microsoft Surface Pro 3.
 * [x] [Headphone jack][#3]
 * [x] Wifi *Works* but [issues with resume from hibernate][#2]
 * [ ] Cameras *not working at all*
-* [ ] MicroSD reader *untested*
-* [ ] [MiniDisplay Port][#1]
-* [ ] Docking station *not yet released*
+* [x] MicroSD reader
+* [x] [MiniDisplay Port][#1]
+* [x] [Docking station][#20]
 * [ ] [Suspend to RAM][#6]
 * [ ] [Suspend to SSD][#2]
 
